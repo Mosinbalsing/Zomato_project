@@ -134,6 +134,7 @@
     align-items: center;
     border-radius: 10px;
     border:  2px solid rgb(232, 232, 232);
+    cursor: pointer;
 }
 .sname{
     font-size: 1rem;
@@ -177,6 +178,7 @@ i{
     border-radius: 10px;
     border:  2px solid rgb(232, 232, 232);
     padding-left: 30px;
+    cursor: pointer;
 }
 .cname{
     font-size: 20px;
